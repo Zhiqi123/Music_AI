@@ -1,0 +1,8 @@
+numpy==2.3.0
+matplotlib==3.10.7
+music21==9.9.1
+pretty_midi==0.2.11
+mido==1.3.3
+pyyaml==6.0.3
+ipykernel==6.31.0
+nbconvert==7.16.6
