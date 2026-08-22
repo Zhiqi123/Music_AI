@@ -1,0 +1,12 @@
+track,path,split,duration_sec,role,license_status,notes
+Music Delta - Gospel,datasets/musdb18-hq/train/Music Delta - Gospel/mixture.wav,train,75.737,library,CC BY-NC-SA 4.0,指纹库曲目(完整曲)
+A Classic Education - NightOwl,datasets/musdb18-hq/train/A Classic Education - NightOwl/mixture.wav,train,171.440,library,CC BY-NC-SA 4.0,指纹库曲目(完整曲)
+Giselle - Moss,datasets/musdb18-hq/train/Giselle - Moss/mixture.wav,train,201.888,library,Restricted (academic use),指纹库曲目(完整曲)
+Invisible Familiars - Disturbing Wildlife,datasets/musdb18-hq/train/Invisible Familiars - Disturbing Wildlife/mixture.wav,train,218.694,library,CC BY-NC-SA 4.0,指纹库曲目(完整曲)
+Wall Of Death - Femme,datasets/musdb18-hq/train/Wall Of Death - Femme/mixture.wav,train,239.116,library,Restricted (academic use),指纹库曲目(完整曲)
+Jay Menon - Through My Eyes,datasets/musdb18-hq/train/Jay Menon - Through My Eyes/mixture.wav,train,253.357,library,Restricted (academic use),指纹库曲目(完整曲)
+Atlantis Bound - It Was My Fault For Waiting,datasets/musdb18-hq/train/Atlantis Bound - It Was My Fault For Waiting/mixture.wav,train,268.237,library,Restricted (academic use),指纹库曲目(完整曲)
+Chris Durban - Celebrate,datasets/musdb18-hq/train/Chris Durban - Celebrate/mixture.wav,train,301.786,library,Restricted (academic use),指纹库曲目(完整曲)
+Secret Mountains - High Horse,datasets/musdb18-hq/train/Secret Mountains - High Horse/mixture.wav,train,355.500,library,CC BY-NC-SA 4.0,指纹库曲目(完整曲)
+Lushlife - Toynbee Suite,datasets/musdb18-hq/train/Lushlife - Toynbee Suite/mixture.wav,train,628.558,library,CC BY-NC-SA 4.0,指纹库曲目(完整曲)
+Mu - Too Bright,datasets/musdb18-hq/test/Mu - Too Bright/mixture.wav,test,272.165,negative_query,Restricted (academic use),"库外音频,查询应返回无匹配"
