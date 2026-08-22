@@ -1,0 +1,13 @@
+artifact,kind,width_px,height_px,dpi_x,dpi_y,grayscale_rgb,sha256
+output_figures/10_1_cross_dataset_gap.png,figure,4836,3465,599.9988,599.9988,True,6fb3581803bad20a660ce4e09e4d17af5100a1ed665f0065ed0982cfed0dca48
+output_figures/10_2_covers80_provenance.png,figure,4836,1440,599.9988,599.9988,True,6ba73dc9495d42ec8163b7e00a395ec7b63a25a3ec6833aaabc9d472e7c240d3
+output_figures/10_3_ccmsim_composition.png,figure,4834,3251,599.9988,599.9988,True,be7a1154a05418e9af575db0609394b412eac64f31b0b4cb16748e2f0888bebe
+output_figures/10_4_mirex_timeline.png,figure,4761,1476,599.9988,599.9988,True,13b704c501e1e84e6f81275fd374a1388f9719773347993257650085b206daff
+outputs/tables/10_0_source_validation.csv,table,,,,,,9e1be582e743355d0a8142d19511de59b91028f255247106f22777f739717f6b
+outputs/tables/10_1_cross_dataset_metrics.csv,table,,,,,,3707fc1df99a7d1a57ad4533f67a5703217abe02ae5bec995c8e3de8aa61044c
+outputs/tables/10_1_cross_dataset_metrics_long.csv,table,,,,,,90f222be38926c32259a2661124cdf54aaeb2cf1664a6a933d32527a9c4e706b
+outputs/tables/10_2_covers80_facts.csv,table,,,,,,015f48df62cd41b633ec58d2dff41d1ceeaa00474dd544c66fc8564c6772407d
+outputs/tables/10_3_ccmsim_country_counts.csv,table,,,,,,d46690d2fbfb6b7012f0483cc32c30887fbdde4d2f970d4d8963eaebb59635f6
+outputs/tables/10_3_ccmsim_separation_ratios.csv,table,,,,,,9a8a081366fffd7dcf02b4c38a82bc3875fc673396667d28b3d2d8a460dfbcc8
+outputs/tables/10_4_mirex_tasks_full.csv,table,,,,,,53ec1727d3a635bcac1f4c73dfcc4cd2bca41ca01a6bfa0deefdeb36791a215c
+outputs/tables/10_4_mirex_timeline.csv,table,,,,,,0a573b29a26139d8e51e06565ef0988e8de7ced3e6edad70eb3842f2ee4faf74

@@ -1,0 +1,61 @@
+year,task_order,task_name,task_level,task_status,linked_task_page,source_line,source_file,highlight_relative_to_2024_page
+2020,1,Audio Fingerprinting,2,listed,True,27,2020_main_page.wiki,False
+2020,2,Audio Classification (Train/Test) Tasks,2,listed,True,28,2020_main_page.wiki,False
+2020,3,Audio US Pop Genre Classification,3,listed,False,29,2020_main_page.wiki,False
+2020,4,Audio Latin Genre Classification,3,listed,False,30,2020_main_page.wiki,False
+2020,5,Audio Music Mood Classification,3,listed,False,31,2020_main_page.wiki,False
+2020,6,Audio Classical Composer Identification,3,listed,False,32,2020_main_page.wiki,False
+2020,7,Audio K-POP Mood Classification,2,listed,True,33,2020_main_page.wiki,False
+2020,8,Audio K-POP Genre Classification,2,listed,True,34,2020_main_page.wiki,False
+2020,9,Audio Tag Classification,2,listed,True,35,2020_main_page.wiki,False
+2020,10,Audio Chord Estimation,2,listed,True,38,2020_main_page.wiki,False
+2020,11,Audio Cover Song Identification,2,listed,True,39,2020_main_page.wiki,False
+2020,12,Audio Downbeat Estimation,2,listed,True,40,2020_main_page.wiki,False
+2020,13,Audio Key Detection,2,listed,True,41,2020_main_page.wiki,False
+2020,14,Audio Melody Extraction,2,listed,True,42,2020_main_page.wiki,False
+2020,15,Patterns for Prediction,2,listed,True,43,2020_main_page.wiki,False
+2020,16,Query by Singing/Humming,2,listed,True,44,2020_main_page.wiki,False
+2020,17,Multiple Fundamental Frequency Estimation & Tracking,2,listed,True,45,2020_main_page.wiki,False
+2020,18,Singing Transcription from Polyphonic Music,2,listed,True,48,2020_main_page.wiki,False
+2020,19,Lyrics Transcription,2,listed,True,49,2020_main_page.wiki,False
+2021,1,Audio Beat Tracking,1,possible,True,27,2021_main_page.wiki,False
+2021,2,Audio Chord Estimation,1,possible,True,28,2021_main_page.wiki,False
+2021,3,Audio Cover Song Identification,1,possible,True,29,2021_main_page.wiki,False
+2021,4,Audio Downbeat Estimation,1,possible,True,30,2021_main_page.wiki,False
+2021,5,Audio Fingerprinting,1,possible,True,31,2021_main_page.wiki,False
+2021,6,Audio Key Detection,1,possible,True,32,2021_main_page.wiki,False
+2021,7,Audio Melody Extraction,1,possible,True,33,2021_main_page.wiki,False
+2021,8,Audio Onset Detection,1,possible,True,34,2021_main_page.wiki,False
+2021,9,Audio Tag Classification,1,possible,True,35,2021_main_page.wiki,False
+2021,10,Audio Tempo Estimation,1,possible,True,36,2021_main_page.wiki,False
+2021,11,Automatic Lyrics Transcription,1,possible,True,37,2021_main_page.wiki,False
+2021,12,Drum Transcription,1,possible,True,38,2021_main_page.wiki,False
+2021,13,Multiple Fundamental Frequency Estimation & Tracking,1,possible,True,39,2021_main_page.wiki,False
+2021,14,Music Detection,1,possible,True,40,2021_main_page.wiki,False
+2021,15,Patterns for Prediction,1,possible,True,41,2021_main_page.wiki,False
+2021,16,Query by Singing/Humming,1,possible,True,42,2021_main_page.wiki,False
+2021,17,Query by Tapping,1,possible,True,43,2021_main_page.wiki,False
+2021,18,Real-time Audio to Score Alignment (a.k.a Score Following),1,possible,True,44,2021_main_page.wiki,False
+2021,19,Set List Identification,1,possible,True,45,2021_main_page.wiki,False
+2021,20,Structural Segmentation,1,possible,True,46,2021_main_page.wiki,False
+2024,1,Audio Chord Estimation,1,listed,True,19,2024_main_page.wiki,False
+2024,2,Lyrics-to-Audio Alignment,1,listed,True,20,2024_main_page.wiki,False
+2024,3,Cover Song Identification,1,listed,True,21,2024_main_page.wiki,False
+2024,4,Symbolic Music Generation,1,listed,True,25,2024_main_page.wiki,False
+2024,5,Music Audio Generation,1,listed,True,26,2024_main_page.wiki,False
+2024,6,Music Description & Captioning,1,listed,True,27,2024_main_page.wiki,False
+2024,7,Polyphonic Transcription,1,listed,True,28,2024_main_page.wiki,False
+2024,8,Singing Voice Deepfake Detection,1,listed,True,29,2024_main_page.wiki,False
+2025,1,Audio Chord Estimation,1,listed,True,12,2025_main_page.wiki,False
+2025,2,Lyrics Transcription,1,listed,True,13,2025_main_page.wiki,False
+2025,3,Cover Song Identification,1,listed,True,14,2025_main_page.wiki,False
+2025,4,Music Structure Analysis,1,listed,True,15,2025_main_page.wiki,False
+2025,5,Audio Beat Tracking,1,listed,True,16,2025_main_page.wiki,False
+2025,6,Audio Key Detection,1,listed,True,17,2025_main_page.wiki,False
+2025,7,Symbolic Music Generation,1,listed,True,20,2025_main_page.wiki,False
+2025,8,Music Audio Generation,1,listed,True,21,2025_main_page.wiki,False
+2025,9,Music Description & Captioning,1,listed,True,22,2025_main_page.wiki,False
+2025,10,Polyphonic Transcription,1,listed,True,23,2025_main_page.wiki,False
+2025,11,Song Deepfake Detection,1,listed,True,24,2025_main_page.wiki,False
+2025,12,Music Reasoning QA,1,listed,True,25,2025_main_page.wiki,True
+2025,13,RenCon,1,listed,True,26,2025_main_page.wiki,True

@@ -1,0 +1,25 @@
+family,method,metric,internal_mean,internal_std,external_mean,external_std,gap_internal_minus_external,gap_basis,source_id
+传统机器学习,SVM 基线,accuracy,0.981,0.002,0.226,0.018,0.755,source table Gap (Acc),ch6_traditional
+传统机器学习,SVM 基线,macro-F1,0.978,0.008,0.092,0.004,0.886,difference of displayed means,ch6_traditional
+传统机器学习,随机森林,accuracy,0.955,0.035,0.33,0.052,0.626,source table Gap (Acc),ch6_traditional
+传统机器学习,随机森林,macro-F1,0.965,0.023,0.284,0.035,0.681,difference of displayed means,ch6_traditional
+传统机器学习,XGBoost,accuracy,0.977,0.006,0.321,0.02,0.656,source table Gap (Acc),ch6_traditional
+传统机器学习,XGBoost,macro-F1,0.976,0.008,0.257,0.021,0.719,difference of displayed means,ch6_traditional
+传统机器学习,软投票（RF + XGB）,accuracy,0.98,0.007,0.327,0.029,0.652,source table Gap (Acc),ch6_traditional
+传统机器学习,软投票（RF + XGB）,macro-F1,0.98,0.008,0.261,0.026,0.719,difference of displayed means,ch6_traditional
+简单 CNN,CNN · 无增强,accuracy,0.987,0.006,0.357,0.015,0.63,source table Gap (Acc),ch6_simple_cnn
+简单 CNN,CNN · 无增强,macro-F1,0.973,0.015,0.266,0.025,0.707,difference of displayed means,ch6_simple_cnn
+简单 CNN,CNN · 全套增强,accuracy,0.99,0.005,0.377,0.062,0.613,source table Gap (Acc),ch6_simple_cnn
+简单 CNN,CNN · 全套增强,macro-F1,0.99,0.006,0.322,0.065,0.668,difference of displayed means,ch6_simple_cnn
+预训练 CNN14,CNN14 · Feature Extraction,accuracy,0.942,0.022,0.769,0.029,0.173,source table Gap (Acc),ch6_pretrained_cnn
+预训练 CNN14,CNN14 · Feature Extraction,macro-F1,0.942,0.02,0.751,0.029,0.191,difference of displayed means,ch6_pretrained_cnn
+预训练 CNN14,CNN14 · Full Fine-tune,accuracy,0.149,0.008,0.195,0.008,-0.046,source table Gap (Acc),ch6_pretrained_cnn
+预训练 CNN14,CNN14 · Full Fine-tune,macro-F1,0.059,0.007,0.071,0.013,-0.012,difference of displayed means,ch6_pretrained_cnn
+预训练 CNN14,CNN14 · Layer-wise LR,accuracy,0.782,0.023,0.255,0.034,0.527,source table Gap (Acc),ch6_pretrained_cnn
+预训练 CNN14,CNN14 · Layer-wise LR,macro-F1,0.74,0.006,0.205,0.055,0.535,difference of displayed means,ch6_pretrained_cnn
+AST,AST · Feature Extraction,accuracy,0.989,0.007,0.754,0.034,0.236,source table Gap (Acc),ch6_ast
+AST,AST · Feature Extraction,macro-F1,0.99,0.006,0.714,0.045,0.276,difference of displayed means,ch6_ast
+AST,AST · LoRA (best val),accuracy,0.989,0.01,0.833,0.01,0.156,source table Gap (Acc),ch6_ast
+AST,AST · LoRA (best val),macro-F1,0.99,0.01,0.818,0.011,0.172,difference of displayed means,ch6_ast
+AST,AST · Full Fine-tune (best val),accuracy,0.99,0.011,0.88,0.015,0.111,source table Gap (Acc),ch6_ast
+AST,AST · Full Fine-tune (best val),macro-F1,0.991,0.01,0.873,0.02,0.118,difference of displayed means,ch6_ast
