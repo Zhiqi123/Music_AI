@@ -1,0 +1,88 @@
+{
+  "uuid": "2d841583-e8f1-47da-84d6-b8bf10092ef5",
+  "answers": {
+    "age": "35_44",
+    "gender": "prefer_not_to_say",
+    "music_training_levels": [
+      "professional_musician",
+      "musicologist"
+    ],
+    "country_of_origin": "Venezuela",
+    "familiar_music_cultures": [
+      "Spain",
+      "Venezuela"
+    ],
+    "overall-1": 1,
+    "cultural-1": 1,
+    "recommend-1": 1,
+    "overall-2": 1.5,
+    "cultural-2": 1,
+    "recommend-2": 1,
+    "overall-3": 1,
+    "cultural-3": 1,
+    "recommend-3": 1,
+    "overall-4": 1,
+    "cultural-4": 1,
+    "recommend-4": 1.5,
+    "overall-5": 1,
+    "cultural-5": 1,
+    "recommend-5": 1,
+    "overall-6": 3,
+    "cultural-6": 3,
+    "recommend-6": 2.5,
+    "overall-7": 2.5,
+    "cultural-7": 1.5,
+    "recommend-7": 4,
+    "overall-8": 1,
+    "cultural-8": 1,
+    "recommend-8": 1,
+    "overall-9": 1,
+    "cultural-9": 1,
+    "recommend-9": 1,
+    "overall-10": 1.5,
+    "cultural-10": 1.5,
+    "recommend-10": 2
+  },
+  "clips": [
+    [
+      "4_17",
+      "5_41"
+    ],
+    [
+      "1_37",
+      "7_15"
+    ],
+    [
+      "2_35",
+      "4_46"
+    ],
+    [
+      "3_22",
+      "9_27"
+    ],
+    [
+      "4_8",
+      "9_22"
+    ],
+    [
+      "4_26",
+      "9_9"
+    ],
+    [
+      "1_2",
+      "3_51"
+    ],
+    [
+      "8_23",
+      "1_48"
+    ],
+    [
+      "2_28",
+      "5_38"
+    ],
+    [
+      "6_12",
+      "6_16"
+    ]
+  ]
+}

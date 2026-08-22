@@ -1,0 +1,90 @@
+{
+  "uuid": "949df740-9323-4c61-aa80-aa3f9678182c",
+  "answers": {
+    "age": "25_34",
+    "gender": "male",
+    "music_training_levels": [
+      "musicologist"
+    ],
+    "country_of_origin": "Greece",
+    "familiar_music_cultures": [
+      "Greece",
+      "Austria",
+      "France",
+      "United_States_of_America",
+      "Turkey"
+    ],
+    "overall-1": 4,
+    "cultural-1": 5,
+    "recommend-1": 5,
+    "overall-2": 4,
+    "cultural-2": 3,
+    "recommend-2": 3,
+    "overall-3": 2,
+    "cultural-3": 1.5,
+    "recommend-3": 1,
+    "overall-4": 3.5,
+    "cultural-4": 4,
+    "recommend-4": 4,
+    "overall-5": 2.5,
+    "cultural-5": 3,
+    "recommend-5": 3,
+    "overall-6": 4,
+    "recommend-6": 4,
+    "cultural-6": 4,
+    "recommend-7": 1.5,
+    "overall-7": 1,
+    "cultural-7": 3,
+    "overall-8": 3.5,
+    "cultural-8": 4.5,
+    "recommend-8": 4,
+    "overall-9": 3.5,
+    "cultural-9": 3.5,
+    "recommend-9": 3.5,
+    "overall-10": 1.5,
+    "cultural-10": 1,
+    "recommend-10": 1
+  },
+  "clips": [
+    [
+      "3_51",
+      "3_2"
+    ],
+    [
+      "6_48",
+      "7_48"
+    ],
+    [
+      "7_42",
+      "1_6"
+    ],
+    [
+      "4_50",
+      "8_34"
+    ],
+    [
+      "9_25",
+      "8_14"
+    ],
+    [
+      "4_13",
+      "6_24"
+    ],
+    [
+      "2_29",
+      "1_49"
+    ],
+    [
+      "4_40",
+      "4_38"
+    ],
+    [
+      "4_30",
+      "5_39"
+    ],
+    [
+      "6_40",
+      "2_36"
+    ]
+  ]
+}

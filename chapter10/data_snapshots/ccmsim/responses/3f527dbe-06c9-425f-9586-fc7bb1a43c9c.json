@@ -1,0 +1,86 @@
+{
+  "uuid": "3f527dbe-06c9-425f-9586-fc7bb1a43c9c",
+  "answers": {
+    "age": "18_24",
+    "gender": "male",
+    "music_training_levels": [
+      "amateur_musician"
+    ],
+    "country_of_origin": "France",
+    "familiar_music_cultures": [
+      "prefer_not_to_say"
+    ],
+    "overall-1": 1.5,
+    "cultural-1": 2.5,
+    "recommend-1": 2.5,
+    "overall-2": 4,
+    "cultural-2": 5,
+    "recommend-2": 5,
+    "cultural-3": 1,
+    "overall-3": 1.5,
+    "recommend-3": 1,
+    "overall-4": 1,
+    "cultural-4": 1,
+    "recommend-4": 1,
+    "overall-5": 3.5,
+    "cultural-5": 4.5,
+    "recommend-5": 3.5,
+    "overall-6": 3.5,
+    "cultural-6": 3.5,
+    "recommend-6": 4,
+    "overall-7": 3,
+    "cultural-7": 2.5,
+    "recommend-7": 3,
+    "overall-8": 1,
+    "recommend-8": 2.5,
+    "cultural-8": 1,
+    "overall-9": 3,
+    "cultural-9": 3,
+    "recommend-9": 3,
+    "overall-10": 4.5,
+    "cultural-10": 5,
+    "recommend-10": 4.5
+  },
+  "clips": [
+    [
+      "4_40",
+      "9_32"
+    ],
+    [
+      "7_15",
+      "8_31"
+    ],
+    [
+      "6_29",
+      "1_13"
+    ],
+    [
+      "4_8",
+      "2_19"
+    ],
+    [
+      "6_10",
+      "6_30"
+    ],
+    [
+      "8_41",
+      "5_11"
+    ],
+    [
+      "7_5",
+      "6_18"
+    ],
+    [
+      "6_24",
+      "2_26"
+    ],
+    [
+      "8_18",
+      "8_37"
+    ],
+    [
+      "8_20",
+      "8_11"
+    ]
+  ]
+}

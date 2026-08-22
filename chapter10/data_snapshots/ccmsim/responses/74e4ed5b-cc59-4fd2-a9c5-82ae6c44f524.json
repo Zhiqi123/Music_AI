@@ -1,0 +1,86 @@
+{
+  "uuid": "74e4ed5b-cc59-4fd2-a9c5-82ae6c44f524",
+  "answers": {
+    "age": "25_34",
+    "gender": "female",
+    "music_training_levels": [
+      "amateur_musician"
+    ],
+    "country_of_origin": "India",
+    "familiar_music_cultures": [
+      "India"
+    ],
+    "overall-1": 1,
+    "cultural-1": 1,
+    "recommend-1": 2,
+    "overall-2": 3,
+    "cultural-2": 3,
+    "recommend-2": 3,
+    "overall-3": 3,
+    "cultural-3": 3,
+    "recommend-3": 3,
+    "overall-4": 2,
+    "cultural-4": 2,
+    "recommend-4": 2,
+    "overall-5": 2,
+    "cultural-5": 2,
+    "recommend-5": 2,
+    "overall-6": 2,
+    "cultural-6": 2,
+    "recommend-6": 2,
+    "overall-7": 3,
+    "cultural-7": 3,
+    "recommend-7": 3,
+    "overall-8": 3,
+    "cultural-8": 3,
+    "recommend-8": 3,
+    "overall-9": 3,
+    "cultural-9": 3,
+    "recommend-9": 3,
+    "overall-10": 4,
+    "cultural-10": 4,
+    "recommend-10": 4
+  },
+  "clips": [
+    [
+      "7_16",
+      "1_33"
+    ],
+    [
+      "6_21",
+      "7_29"
+    ],
+    [
+      "2_21",
+      "6_52"
+    ],
+    [
+      "9_31",
+      "1_19"
+    ],
+    [
+      "2_39",
+      "5_31"
+    ],
+    [
+      "9_22",
+      "8_15"
+    ],
+    [
+      "4_49",
+      "7_49"
+    ],
+    [
+      "6_27",
+      "7_13"
+    ],
+    [
+      "4_14",
+      "2_29"
+    ],
+    [
+      "7_32",
+      "6_24"
+    ]
+  ]
+}

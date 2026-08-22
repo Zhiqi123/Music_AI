@@ -1,0 +1,90 @@
+{
+  "uuid": "4ad8bdc7-fc1c-4f6d-9b9e-5f5b29a24c56",
+  "answers": {
+    "age": "25_34",
+    "gender": "male",
+    "music_training_levels": [
+      "musicologist",
+      "amateur_musician"
+    ],
+    "country_of_origin": "Italy",
+    "familiar_music_cultures": [
+      "Italy",
+      "Norway",
+      "Japan",
+      "Austria"
+    ],
+    "overall-1": 2,
+    "cultural-1": 2.5,
+    "recommend-1": 2,
+    "overall-2": 1,
+    "cultural-2": 1.5,
+    "recommend-2": 1,
+    "overall-3": 2,
+    "cultural-3": 1.5,
+    "recommend-3": 1,
+    "overall-4": 1,
+    "cultural-4": 1,
+    "recommend-4": 1,
+    "overall-5": 3.5,
+    "cultural-5": 3,
+    "recommend-5": 4,
+    "cultural-6": 2.5,
+    "overall-6": 1.5,
+    "recommend-6": 2,
+    "overall-7": 1,
+    "cultural-7": 1.5,
+    "recommend-7": 1,
+    "overall-8": 2.5,
+    "cultural-8": 3,
+    "recommend-8": 2.5,
+    "overall-9": 3,
+    "cultural-9": 3.5,
+    "recommend-9": 3,
+    "overall-10": 1,
+    "cultural-10": 1,
+    "recommend-10": 1
+  },
+  "clips": [
+    [
+      "9_18",
+      "7_54"
+    ],
+    [
+      "1_34",
+      "2_53"
+    ],
+    [
+      "4_13",
+      "1_2"
+    ],
+    [
+      "7_44",
+      "1_24"
+    ],
+    [
+      "7_33",
+      "8_38"
+    ],
+    [
+      "9_37",
+      "1_45"
+    ],
+    [
+      "1_27",
+      "1_35"
+    ],
+    [
+      "3_51",
+      "4_8"
+    ],
+    [
+      "8_14",
+      "5_13"
+    ],
+    [
+      "2_38",
+      "8_12"
+    ]
+  ]
+}

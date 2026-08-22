@@ -1,0 +1,91 @@
+{
+  "uuid": "5364b009-632b-4e56-9ac2-ca726b8aa665",
+  "answers": {
+    "age": "45_54",
+    "gender": "female",
+    "music_training_levels": [
+      "professional_musician",
+      "musicologist"
+    ],
+    "country_of_origin": "Australia",
+    "familiar_music_cultures": [
+      "Australia",
+      "United_Kingdom",
+      "United_States_of_America",
+      "New_Zealand",
+      "Canada"
+    ],
+    "overall-1": 4,
+    "cultural-1": 4,
+    "recommend-1": 4.5,
+    "overall-2": 1,
+    "cultural-2": 1,
+    "recommend-2": 1,
+    "recommend-3": 3,
+    "cultural-3": 2,
+    "overall-3": 2,
+    "cultural-4": 1,
+    "recommend-4": 1,
+    "overall-4": 4,
+    "cultural-5": 5,
+    "recommend-5": 5,
+    "overall-5": 4.5,
+    "cultural-6": 2,
+    "recommend-6": 3,
+    "overall-6": 4,
+    "recommend-7": 3,
+    "cultural-7": 3,
+    "overall-7": 3.5,
+    "recommend-8": 1.5,
+    "overall-8": 2,
+    "cultural-8": 3,
+    "cultural-9": 3,
+    "overall-9": 4,
+    "recommend-9": 2,
+    "recommend-10": 2.5,
+    "cultural-10": 3,
+    "overall-10": 3.5
+  },
+  "clips": [
+    [
+      "9_48",
+      "8_43"
+    ],
+    [
+      "5_9",
+      "9_40"
+    ],
+    [
+      "2_19",
+      "2_26"
+    ],
+    [
+      "7_17",
+      "2_38"
+    ],
+    [
+      "9_10",
+      "9_51"
+    ],
+    [
+      "6_37",
+      "4_5"
+    ],
+    [
+      "3_41",
+      "4_11"
+    ],
+    [
+      "4_22",
+      "3_27"
+    ],
+    [
+      "3_51",
+      "5_22"
+    ],
+    [
+      "5_32",
+      "4_26"
+    ]
+  ]
+}

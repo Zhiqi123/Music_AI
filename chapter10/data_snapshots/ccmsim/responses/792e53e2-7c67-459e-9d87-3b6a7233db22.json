@@ -1,0 +1,86 @@
+{
+  "uuid": "792e53e2-7c67-459e-9d87-3b6a7233db22",
+  "answers": {
+    "age": "25_34",
+    "gender": "female",
+    "music_training_levels": [
+      "professional_musician"
+    ],
+    "country_of_origin": "South_Korea",
+    "familiar_music_cultures": [
+      "South_Korea"
+    ],
+    "overall-1": 3,
+    "cultural-1": 4,
+    "recommend-1": 1.5,
+    "overall-2": 1.5,
+    "cultural-2": 1.5,
+    "recommend-2": 3.5,
+    "overall-3": 2,
+    "cultural-3": 3.5,
+    "recommend-3": 2,
+    "overall-4": 3,
+    "cultural-4": 3.5,
+    "recommend-4": 4,
+    "overall-5": 1.5,
+    "cultural-5": 2,
+    "recommend-5": 4,
+    "overall-6": 3.5,
+    "cultural-6": 2,
+    "recommend-6": 4,
+    "overall-7": 1,
+    "cultural-7": 2,
+    "recommend-7": 2,
+    "overall-8": 3.5,
+    "cultural-8": 4,
+    "recommend-8": 4,
+    "overall-9": 2,
+    "cultural-9": 1.5,
+    "recommend-9": 2,
+    "overall-10": 4.5,
+    "cultural-10": 4.5,
+    "recommend-10": 4
+  },
+  "clips": [
+    [
+      "4_46",
+      "2_32"
+    ],
+    [
+      "5_50",
+      "8_45"
+    ],
+    [
+      "2_44",
+      "4_48"
+    ],
+    [
+      "5_22",
+      "6_53"
+    ],
+    [
+      "7_18",
+      "9_42"
+    ],
+    [
+      "7_32",
+      "1_2"
+    ],
+    [
+      "7_53",
+      "2_27"
+    ],
+    [
+      "4_1",
+      "5_25"
+    ],
+    [
+      "9_47",
+      "2_10"
+    ],
+    [
+      "3_36",
+      "1_43"
+    ]
+  ]
+}

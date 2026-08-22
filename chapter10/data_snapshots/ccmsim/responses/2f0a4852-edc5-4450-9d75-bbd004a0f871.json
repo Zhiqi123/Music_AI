@@ -1,0 +1,86 @@
+{
+  "uuid": "2f0a4852-edc5-4450-9d75-bbd004a0f871",
+  "answers": {
+    "age": "25_34",
+    "gender": "female",
+    "music_training_levels": [
+      "musicologist"
+    ],
+    "country_of_origin": "Spain",
+    "familiar_music_cultures": [
+      "Spain"
+    ],
+    "overall-1": 1.5,
+    "cultural-1": 1.5,
+    "recommend-1": 2.5,
+    "overall-2": 1.5,
+    "cultural-2": 2,
+    "recommend-2": 2,
+    "overall-3": 4.5,
+    "cultural-3": 4.5,
+    "recommend-3": 4.5,
+    "overall-4": 2.5,
+    "cultural-4": 3,
+    "recommend-4": 3.5,
+    "overall-5": 4.5,
+    "cultural-5": 5,
+    "recommend-5": 5,
+    "overall-6": 1.5,
+    "cultural-6": 1.5,
+    "recommend-6": 1,
+    "overall-7": 1.5,
+    "cultural-7": 2,
+    "recommend-7": 2,
+    "overall-8": 3.5,
+    "cultural-8": 3.5,
+    "recommend-8": 3.5,
+    "overall-9": 2,
+    "cultural-9": 3,
+    "recommend-9": 3,
+    "overall-10": 1.5,
+    "cultural-10": 1.5,
+    "recommend-10": 1.5
+  },
+  "clips": [
+    [
+      "7_1",
+      "9_8"
+    ],
+    [
+      "3_45",
+      "7_41"
+    ],
+    [
+      "6_35",
+      "6_4"
+    ],
+    [
+      "7_32",
+      "8_5"
+    ],
+    [
+      "3_9",
+      "3_28"
+    ],
+    [
+      "1_9",
+      "9_26"
+    ],
+    [
+      "6_14",
+      "5_35"
+    ],
+    [
+      "6_8",
+      "7_30"
+    ],
+    [
+      "7_47",
+      "5_46"
+    ],
+    [
+      "9_45",
+      "3_20"
+    ]
+  ]
+}
