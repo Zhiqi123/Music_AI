@@ -1,0 +1,4 @@
+asset_id,available,paths,download_hint
+ctis,True,CODE/datasets/CCMUSIC_CTIS,Place CCMUSIC_CTIS under CODE/datasets/CCMUSIC_CTIS/.
+chmusic,True,CODE/datasets/ChMusic,Place ChMusic under CODE/datasets/ChMusic/.
+audio_author_ch08,True,CODE/datasets/audio_author/chapter_08_author,Download the author asset pack and extract it to CODE/datasets/audio_author/chapter_08_author/.

@@ -1,0 +1,2 @@
+backend,available,reason,next_action
+laion_clap,False,missing Python package: laion_clap,python -m pip install laion-clap

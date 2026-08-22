@@ -1,0 +1,17 @@
+{
+  "source_audio": "CODE/datasets/FMA_small/fma_small/fma_small/000/000200.mp3",
+  "token_path": "outputs/generated/teaching_codec_tokens/000200.tokens.pt",
+  "metadata_path": "outputs/generated/teaching_codec_tokens/000200.json",
+  "tokenizer": "teaching_logmel_quantizer",
+  "codes_shape": [
+    16,
+    188
+  ],
+  "sample_rate": 24000,
+  "duration_sec": 4.0,
+  "n_mels": 16,
+  "n_fft": 1024,
+  "hop_length": 512,
+  "vocab_size": 256,
+  "top_db": 80.0
+}

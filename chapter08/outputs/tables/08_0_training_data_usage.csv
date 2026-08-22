@@ -1,0 +1,4 @@
+output,used_by,conditioning,why_it_matters
+08_0_author_audio_quality.csv,all training or fine-tuning paths,quality filters before manifest export,"rejects unreadable, too short, mostly silent, or clipped files before training."
+08_0_prepared_segments.csv,"WaveNet, codec token cache, MusicGen fine-tuning, ACE-Step LoRA",audio segment plus text prompt/caption,fixed sample rate and duration make batches stable and keep text-audio pairs aligned.
+08_0_augmentation_manifest.csv,small-data fine-tuning and robustness experiments,"same prompt, transformed audio target","records purpose-driven gain, noise, pitch, tempo, and channel variants, including combined transforms."

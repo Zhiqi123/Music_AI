@@ -1,0 +1,2 @@
+asset_id,available,paths,download_hint,manifest
+audio_author_ch08,True,CODE/datasets/audio_author/chapter_08_author,Download the author asset pack and extract it to CODE/datasets/audio_author/chapter_08_author/.,data_manifests/audio_author_ch08.csv

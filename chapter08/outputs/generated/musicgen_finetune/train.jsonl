@@ -1,0 +1,2 @@
+{"key": "author_medieval_style_orch", "path": "../datasets/audio_author/chapter_08_author/medieval_style_orch.wav", "description": "medieval-style orchestral sketch", "split": "train", "duration": 132.511}
+{"key": "author_orchestra_0", "path": "../datasets/audio_author/chapter_08_author/orchestra_0.wav", "description": "cinematic orchestral passage", "split": "train", "duration": 199.123}

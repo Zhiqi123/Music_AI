@@ -1,0 +1,4 @@
+case_id,source_path,status,decision,sample_rate,channels,duration_sec,peak_dbfs,rms_dbfs,clipping_ratio,silence_ratio,prompt_en,prompt_cn,detail
+author_medieval_style_orch,CODE/datasets/audio_author/chapter_08_author/medieval_style_orch.wav,ok,keep,44100,2,132.511,-1.146,-18.021,0.0,0.012715,medieval-style orchestral sketch,中世纪风格的管弦乐草图,usable for segmentation
+author_orchestra_0,CODE/datasets/audio_author/chapter_08_author/orchestra_0.wav,ok,keep,44100,2,199.123,-1.117,-19.747,0.0,0.024322,cinematic orchestral passage,电影感管弦乐段落,usable for segmentation
+author_orchestra_1,CODE/datasets/audio_author/chapter_08_author/orchestra_1.wav,ok,keep,44100,2,110.7,-1.145,-21.186,0.0,0.043645,lyrical orchestral texture,抒情管弦乐织体,usable for segmentation

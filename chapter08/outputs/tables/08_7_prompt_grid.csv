@@ -1,0 +1,4 @@
+prompt_id,prompt_cn,prompt_en,control_axis
+cn_plucked_sparse,稀疏的中国弹拨乐,sparse Chinese plucked strings,instrumentation
+piano_minimal,极简钢琴独奏,minimal solo piano,texture
+orchestra_slow,缓慢的弦乐队,slow string orchestra,ensemble
