@@ -1,0 +1,4 @@
+family,selected_config,config_key,val_f1,val_acc,external_acc
+Feature Extraction,Feature Extraction,feature_extraction,0.984 ± 0.013,0.992 ± 0.004,0.754 ± 0.034
+LoRA,LoRA r=8 alpha=16 dropout=0.1,lora_r8_a16_d0p1_lr1em4,0.991 ± 0.004,0.990 ± 0.005,0.833 ± 0.010
+Full Fine-tune,FullFT lr=2e-5 wd=1e-4 ls=0.1,fullft_lr2em5_wd1em4_ls0p1,0.998 ± 0.003,0.996 ± 0.005,0.880 ± 0.015

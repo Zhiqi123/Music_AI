@@ -1,0 +1,64 @@
+{
+  "classes": [
+    {
+      "label_idx": 178,
+      "cname": "二胡",
+      "pinyin": "er4_hu2",
+      "default_train": 108
+    },
+    {
+      "label_idx": 35,
+      "cname": "唢呐2",
+      "pinyin": "suo3_na_2",
+      "default_train": 70
+    },
+    {
+      "label_idx": 128,
+      "cname": "扬剧主胡",
+      "pinyin": "yang2_ju4_zhu3_hu2",
+      "default_train": 56
+    },
+    {
+      "label_idx": 216,
+      "cname": "低音热瓦普",
+      "pinyin": "Bass_re4_wa3_pu3",
+      "default_train": 54
+    },
+    {
+      "label_idx": 217,
+      "cname": "民间热瓦普",
+      "pinyin": "folk_re4_wa3_pu3",
+      "default_train": 54
+    },
+    {
+      "label_idx": 28,
+      "cname": "中音笙",
+      "pinyin": "Alto_sheng1",
+      "default_train": 52
+    },
+    {
+      "label_idx": 198,
+      "cname": "八角月琴",
+      "pinyin": "ba1_jiao3_yue4_qin2",
+      "default_train": 52
+    },
+    {
+      "label_idx": 205,
+      "cname": "柳琴",
+      "pinyin": "liu3_qin2",
+      "default_train": 52
+    },
+    {
+      "label_idx": 201,
+      "cname": "大阮",
+      "pinyin": "da4_ruan3",
+      "default_train": 50
+    },
+    {
+      "label_idx": 206,
+      "cname": "琵琶",
+      "pinyin": "pi2_pa2",
+      "default_train": 50
+    }
+  ]
+}

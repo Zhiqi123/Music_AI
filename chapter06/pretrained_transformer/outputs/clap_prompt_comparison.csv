@@ -1,0 +1,5 @@
+prompt,internal_acc,internal_f1,external_acc,external_f1
+naive_label,0.1716,0.0872,0.1852,0.0532
+recording_of,0.4265,0.3030,0.2623,0.2019
+descriptive,0.6422,0.5292,0.5377,0.4223
+domain_scoped,0.1520,0.0443,0.2311,0.1353
