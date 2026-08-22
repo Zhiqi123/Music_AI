@@ -1,0 +1,7 @@
+year,page_state,task_status,page_url,note
+2020,main_page,listed,https://music-ir.org/mirex/wiki/2020:Main_Page,The page identifies MIREX 2020 as the 16th running and lists deadline-grouped tasks.
+2021,main_page,possible,https://music-ir.org/mirex/wiki/2021:Main_Page,The heading says Possible Evaluation Tasks; the page also warns that COVID-19 may prevent all tasks from finishing by ISMIR.
+2022,no_main_page,unknown,https://music-ir.org/mirex/wiki/2022:Main_Page,No main page was found at the verified URL; do not infer complete activity status from page absence.
+2023,no_main_page,unknown,https://music-ir.org/mirex/wiki/2023:Main_Page,No main page was found at the verified URL; do not infer complete activity status from page absence.
+2024,main_page,listed,https://music-ir.org/mirex/wiki/2024:Main_Page,The official page says MIREX returned starting in 2024 after a break of three years.
+2025,main_page,listed,https://music-ir.org/mirex/wiki/2025:Main_Page,Music Reasoning QA and RenCon appear in the 2025 list but not in the captured 2024 list.

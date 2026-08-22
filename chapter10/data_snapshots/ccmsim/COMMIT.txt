@@ -1,0 +1,15 @@
+Repository: https://github.com/pxaris/CCMSim
+Commit: 197d61738e79fc5bbe20891d54be4aed88e89e4b
+Tree: 1aa4707e25e0ac179f5cc99f667796f0cf16050b
+Snapshot date: 2026-08-05
+
+Included here:
+- data/annotations/responses/*.json (125 files)
+- data/annotations/audio_annotations_mapping.csv
+- data/annotations/human_similarity.csv
+- data/annotations/human_similarity_normalized.csv
+- report/user_study/user_study_comprehensive_report.txt
+- LICENSE-DATA and LICENSE
+
+The fixed upstream commit does not distribute the source audio. This local
+snapshot likewise contains no source audio.

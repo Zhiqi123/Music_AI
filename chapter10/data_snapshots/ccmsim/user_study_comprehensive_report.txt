@@ -1,0 +1,133 @@
+USER STUDY ANALYSIS REPORT
+==================================================
+Generated on: 2025-08-04 08:07:21
+
+DATASET OVERVIEW:
+------------------------------
+Total Annotators: 125
+Unique Audio Files: 463
+Unique Audio Pairs: 1130
+Total Pair Annotations: 1250
+Total Individual Responses: 3750
+Average Responses per Annotator: 30.0
+
+QUESTION RESPONSE STATISTICS:
+-----------------------------------
+Overall music similarity:
+  Count: 1250
+  Mean: 2.17
+  Std: 1.09
+  Min: 1, Max: 5
+Cultural similarity:
+  Count: 1250
+  Mean: 2.21
+  Std: 1.23
+  Min: 1, Max: 5
+Recommendation level:
+  Count: 1250
+  Mean: 2.23
+  Std: 1.27
+  Min: 1, Max: 5
+
+DOMAIN PAIR DISTRIBUTION:
+------------------------------
+  Arab-Andalusian × Lyra: 41
+  MagnaTagATune × Hindustani: 40
+  MagnaTagATune × Carnatic: 40
+  Carnatic × Jingju: 38
+  Arab-Andalusian × Hindustani: 38
+  FMA-medium × Hindustani: 38
+  FMA-medium × Carnatic: 38
+  MagnaTagATune × corpusCOFLA: 36
+  FMA-medium × corpusCOFLA: 36
+  Hindustani × Jingju: 35
+  Turkish-makam × Jingju: 33
+  Turkish-makam × Hindustani: 33
+  Arab-Andalusian × Jingju: 33
+  Hindustani × Carnatic: 33
+  Lyra × Carnatic: 32
+  Turkish-makam × Carnatic: 32
+  Lyra × Jingju: 32
+  Lyra × Hindustani: 31
+  FMA-medium × Arab-Andalusian: 31
+  Lyra × Turkish-makam: 31
+  MagnaTagATune × FMA-medium: 31
+  FMA-medium × Jingju: 30
+  corpusCOFLA × Jingju: 30
+  corpusCOFLA × Lyra: 30
+  Arab-Andalusian × Carnatic: 29
+  MagnaTagATune × Turkish-makam: 29
+  corpusCOFLA × Hindustani: 27
+  MagnaTagATune × Jingju: 26
+  MagnaTagATune × Lyra: 26
+  MagnaTagATune × Arab-Andalusian: 25
+  corpusCOFLA × Turkish-makam: 25
+  corpusCOFLA × Arab-Andalusian: 25
+  Arab-Andalusian × Turkish-makam: 25
+  corpusCOFLA × Carnatic: 24
+  FMA-medium × Turkish-makam: 23
+  FMA-medium × Lyra: 23
+  Arab-Andalusian (within): 17
+  Carnatic (within): 16
+  Turkish-makam (within): 15
+  Hindustani (within): 14
+  FMA-medium (within): 13
+  Lyra (within): 12
+  corpusCOFLA (within): 12
+  MagnaTagATune (within): 11
+  Jingju (within): 11
+
+DEMOGRAPHICS SUMMARY:
+-------------------------
+Age:
+  Total responses: 125
+  Unique categories: 5
+  Top responses:
+    25_34: 50 (40.0%)
+    35_44: 37 (29.6%)
+    18_24: 29 (23.2%)
+
+Gender:
+  Total responses: 125
+  Unique categories: 4
+  Top responses:
+    male: 75 (60.0%)
+    female: 42 (33.6%)
+    prefer_not_to_say: 4 (3.2%)
+
+Music Training Levels:
+  Total responses: 154
+  Unique categories: 13
+  Top responses:
+    music_enthusiast: 28 (18.2%)
+    advanced_amateur_musician: 27 (17.5%)
+    amateur_musician: 26 (16.9%)
+
+Country Of Origin:
+  Total responses: 125
+  Unique categories: 21
+  Top responses:
+    Greece: 78 (62.4%)
+    China: 7 (5.6%)
+    Italy: 6 (4.8%)
+
+Familiar Music Cultures:
+  Total responses: 373
+  Unique categories: 58
+  Top responses:
+    Greece: 73 (19.6%)
+    United_States_of_America: 50 (13.4%)
+    United_Kingdom: 46 (12.3%)
+
+DATA QUALITY ASSESSMENT:
+------------------------------
+Total similarity ratings: 3750
+Rating range: 1 - 5
+Overall mean rating: 2.20
+Overall std rating: 1.20
+Rating distribution:
+  Rating 1: 1210 (32.3%)
+  Rating 2: 491 (13.1%)
+  Rating 3: 377 (10.1%)
+  Rating 4: 314 (8.4%)
+  Rating 5: 112 (3.0%)

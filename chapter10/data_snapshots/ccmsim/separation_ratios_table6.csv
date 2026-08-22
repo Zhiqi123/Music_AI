@@ -1,0 +1,3 @@
+method,human_dimension,setting,separation_ratio,source_table,source_url,accessed_at
+Human judgments,Cultural similarity,annotated-pairs,2.361,Table 6,https://transactions.ismir.net/articles/10.5334/tismir.341,2026-08-05
+Qwen2-Audio,,annotated-pairs,1.579,Table 6,https://transactions.ismir.net/articles/10.5334/tismir.341,2026-08-05
