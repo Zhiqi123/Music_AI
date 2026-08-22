@@ -1,0 +1,25 @@
+seed: 42
+device: auto
+data:
+  source: nsynth
+  manifest_csv: data_manifests/nsynth_subset.csv
+  split: valid
+  max_files: 256
+  sample_rate: 16000
+  window_samples: 4096
+  quantization_channels: 256
+model:
+  residual_channels: 32
+  dilation_channels: 32
+  skip_channels: 64
+  kernel_size: 2
+  dilation_cycles: 3
+  layers_per_cycle: 8
+training:
+  batch_size: 8
+  epochs: 2
+  learning_rate: 0.001
+  max_steps_per_epoch: 200
+outputs:
+  checkpoint_dir: outputs/checkpoints/wavenet_toy
+  history_csv: outputs/tables/08_3_wavenet_history.csv

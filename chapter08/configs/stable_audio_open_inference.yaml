@@ -1,0 +1,14 @@
+model_name: stabilityai/stable-audio-open-1.0
+duration_seconds: 12
+device: auto
+num_inference_steps: 30
+guidance_scale: 7.0
+sampler_type: dpmpp-3m-sde
+sigma_min: 0.3
+sigma_max: 500.0
+prompts:
+  - prompt_id: orchestral_sketch
+    text: cinematic string orchestra sketch, slow tempo
+outputs:
+  audio_dir: output_audio/08_6d_stable_audio_open
+  table_csv: outputs/tables/08_model_comparison.csv

@@ -1,0 +1,16 @@
+seed: 42
+device: auto
+base_model: ACE-Step/ACE-Step-v1-3.5B
+data:
+  manifest_csv: data_manifests/audio_author_ch08.csv
+  audio_root: ../datasets/audio_author/chapter_08_author
+  sample_rate: 44100
+training:
+  rank: 16
+  alpha: 32
+  learning_rate: 0.0001
+  batch_size: 1
+  max_steps: 1000
+outputs:
+  checkpoint_dir: outputs/checkpoints/ace_step_lora
+  table_csv: outputs/tables/08_8_lora_plan.csv

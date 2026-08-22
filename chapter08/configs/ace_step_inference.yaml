@@ -1,0 +1,13 @@
+model_name: ACE-Step/ACE-Step-v1-3.5B
+checkpoint_dir: models/ace_step_v1_3_5b
+duration_seconds: 20
+device: auto
+dtype: float32
+infer_steps: 60
+prompts:
+  - prompt_id: chinese_fusion
+    text: modern Chinese instrumental fusion with plucked strings
+lyrics: ""
+outputs:
+  audio_dir: output_audio/08_6f_ace_step
+  table_csv: outputs/tables/08_model_comparison.csv

@@ -1,0 +1,11 @@
+model_name: cvssp/audioldm2
+duration_seconds: 8
+num_inference_steps: 25
+guidance_scale: 3.5
+negative_prompt: noisy, distorted, low quality
+prompts:
+  - prompt_id: guqin_texture
+    text: sparse guqin notes in a quiet hall
+outputs:
+  audio_dir: output_audio/08_6c_audioldm2
+  table_csv: outputs/tables/08_model_comparison.csv

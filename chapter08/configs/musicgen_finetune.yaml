@@ -1,0 +1,18 @@
+seed: 42
+device: auto
+base_model: facebook/musicgen-small
+data:
+  manifest_csv: data_manifests/audio_author_ch08.csv
+  audio_root: ../datasets/audio_author/chapter_08_author
+  train_jsonl: outputs/generated/musicgen_finetune/train.jsonl
+  valid_jsonl: outputs/generated/musicgen_finetune/valid.jsonl
+  sample_rate: 32000
+training:
+  solver: musicgen/musicgen_base_32khz
+  model_scale: small
+  batch_size: 1
+  max_steps: 1000
+  learning_rate: 0.0001
+outputs:
+  checkpoint_dir: outputs/checkpoints/musicgen_finetune
+  table_csv: outputs/tables/08_8_musicgen_finetune_plan.csv

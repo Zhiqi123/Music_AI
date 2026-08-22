@@ -1,0 +1,3 @@
+case_id,path,category,source_type,license_status,can_redistribute,duration_sec,prompt_cn,prompt_en,notes
+chmusic_001,../../datasets/ChMusic/example.wav,chinese_music,chmusic,unknown,false,,中国传统器乐,traditional Chinese instrumental music,replace with local path
+

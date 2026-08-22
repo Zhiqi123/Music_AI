@@ -1,0 +1,16 @@
+model_name: facebook/musicgen-small
+duration_seconds: 8
+prompts:
+  - prompt_id: ambient_erhu
+    text: gentle ambient music with erhu-like lead melody
+  - prompt_id: piano_minimal
+    text: minimal solo piano with warm reverb
+audio_prompt:
+  prompt_id: author_orchestra_continuation
+  text: continue this orchestral texture with a coherent cinematic phrase
+  path: ../datasets/audio_author/chapter_08_author/orchestra_0.wav
+  prompt_duration_sec: 2.0
+  duration_seconds: 8
+outputs:
+  audio_dir: output_audio/08_6b_musicgen
+  table_csv: outputs/tables/08_model_comparison.csv

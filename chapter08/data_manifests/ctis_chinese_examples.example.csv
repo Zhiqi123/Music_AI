@@ -1,0 +1,3 @@
+case_id,path,instrument,source_type,license_status,can_redistribute,duration_sec,prompt_cn,prompt_en,notes
+ctis_001,../../datasets/CCMUSIC_CTIS/example.wav,erhu,ctis,cc-by-nc-nd-4.0,false,,二胡独奏,solo erhu,replace with local path
+

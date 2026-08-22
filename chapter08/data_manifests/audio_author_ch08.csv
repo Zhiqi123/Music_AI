@@ -1,0 +1,4 @@
+case_id,path,category,source_type,license_status,can_redistribute,duration_sec,split,prompt_cn,prompt_en,notes
+author_medieval_style_orch,medieval_style_orch.wav,orchestra,author_owned,author_declared,true,132.511,train,中世纪风格的管弦乐草图,medieval-style orchestral sketch,chapter_08_author pack
+author_orchestra_0,orchestra_0.wav,orchestra,author_owned,author_declared,true,199.123,train,电影感管弦乐段落,cinematic orchestral passage,chapter_08_author pack
+author_orchestra_1,orchestra_1.wav,orchestra,author_owned,author_declared,true,110.700,valid,抒情管弦乐织体,lyrical orchestral texture,chapter_08_author pack

@@ -1,0 +1,23 @@
+seed: 42
+device: auto
+data:
+  source: fma_small
+  audio_manifest_csv: data_manifests/fma_small_subset.csv
+  max_files: 512
+  sample_rate: 24000
+  segment_seconds: 10.0
+  token_cache_dir: outputs/generated/teaching_codec_tokens
+model:
+  vocab_size: 256
+  d_model: 128
+  n_heads: 4
+  n_layers: 4
+  max_length: 512
+training:
+  batch_size: 8
+  epochs: 2
+  learning_rate: 0.0003
+  max_steps_per_epoch: 200
+outputs:
+  checkpoint_dir: outputs/checkpoints/codec_lm_mini
+  history_csv: outputs/tables/08_5_codec_lm_history.csv

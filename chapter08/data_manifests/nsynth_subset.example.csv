@@ -1,0 +1,3 @@
+note_id,path,split,instrument_family,instrument_source,pitch,velocity,license_status,notes
+keyboard_acoustic_004-060-025,../../datasets/nsynth/nsynth-valid/audio/keyboard_acoustic_004-060-025.wav,valid,keyboard,acoustic,60,25,nsynth_license,example row
+

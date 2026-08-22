@@ -1,0 +1,2 @@
+case_id,path,category,source_type,license_status,can_redistribute,duration_sec,split,prompt_cn,prompt_en,notes
+author_001,example.wav,piano,author_owned,author_declared,true,,train,温暖的钢琴独奏,warm solo piano,place wav files under CODE/datasets/audio_author/chapter_08_author

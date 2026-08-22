@@ -1,0 +1,27 @@
+model_name: m-a-p/YuE
+stage1_model_id: m-a-p/YuE-s1-7B-anneal-en-cot
+stage2_model_id: m-a-p/YuE-s2-1B-general
+stage1_model_dir: models/m_a_p_yue_s1_7b_anneal_en_cot
+stage2_model_dir: models/m_a_p_yue_s2_1b_general
+requires_external_repo: true
+yue_repo_env: CHAPTER08_YUE_REPO
+genre_txt: data_manifests/yue_genre.example.txt
+lyrics_file: data_manifests/yue_prompt.example.txt
+command_template:
+  - python
+  - infer.py
+  - --stage1_model
+  - "{stage1_model}"
+  - --stage2_model
+  - "{stage2_model}"
+  - --genre_txt
+  - "{genre_txt}"
+  - --lyrics_txt
+  - "{lyrics_file}"
+  - --run_n_segments
+  - "2"
+  - --output_dir
+  - "{output_dir}"
+outputs:
+  audio_dir: output_audio/08_6e_yue
+  table_csv: outputs/tables/08_model_comparison.csv
