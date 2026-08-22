@@ -1,0 +1,23 @@
+accelerate
+diffusers==0.35.2
+encodec
+huggingface_hub>=0.23,<1
+ipywidgets
+librosa
+pandas
+laion-clap
+safetensors
+sentencepiece
+soundfile
+scipy
+torch==2.4.1
+torchaudio==2.4.1
+transformers==4.49.0
+
+# AudioCraft/MusicGen is installed in its own environment:
+#   audiocraft==1.3.0 pins xformers<0.0.23 and av==11.0.0.
+#   See 08_6b_musicgen_inference.ipynb for the no-xformers, newer-PyAV recipe.
+#
+# Stable Audio Open is installed in its own Python 3.10 environment:
+#   stable-audio-tools
+#   See 08_6d_stable_audio_open_inference.ipynb.
