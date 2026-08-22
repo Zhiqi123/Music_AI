@@ -1,0 +1,3 @@
+case_id,track,reference_type,source_path,start_sec,duration_sec,reference_stems
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq_from_07_4,CODE/datasets/musdb18-hq/test/AM Contra - Heart Peripheral/mixture.wav,175.0,20.0,vocals;drums;bass;other
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq_from_07_4,CODE/datasets/musdb18-hq/test/Al James - Schoolboy Facination/mixture.wav,160.0,20.0,vocals;drums;bass;other

@@ -1,0 +1,4 @@
+split,track_name,start_sec,duration_sec,notes
+test,Example Track 1,30,30,"Replace with a local MUSDB18-HQ test track name."
+test,Example Track 2,45,30,"Keep the subset small for notebook execution."
+

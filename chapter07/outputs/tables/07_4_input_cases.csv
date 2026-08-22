@@ -1,0 +1,5 @@
+case_id,display_name,family,source,start_sec,duration_sec,expected_present,expected_absent,expected_uncertain
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,CODE/datasets/musdb18-hq/test/AM Contra - Heart Peripheral/mixture.wav,175.0,20.0,vocals;drums;bass;other,,
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,CODE/datasets/musdb18-hq/test/Al James - Schoolboy Facination/mixture.wav,160.0,20.0,vocals;drums;bass;other,,
+xiaohetang_author,xiaohetang_author,pop,CODE/datasets/audio_author/xiaohetang_tracks/xiaohetang_mix.wav,0.0,30.0,vocals;piano;bass;drums;synths;accompaniment,guitar,
+orchestra_author,orchestra_author,orchestra,CODE/datasets/audio_author/orchestra_tracks/orchestra_mix.wav,0.0,30.0,strings;woodwinds;brass;choirs;percussion,piano;guitar,vocals;drums;bass;other

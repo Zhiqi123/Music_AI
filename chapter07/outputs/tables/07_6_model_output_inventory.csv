@@ -1,0 +1,13 @@
+case_id,model_id,mode,stem_count,stems,source
+orchestra_author,demucs_htdemucs_6stem,6stems,6,bass;drums;guitar;other;piano;vocals,07_4_output_audio_manifest.csv
+orchestra_author,demucs_htdemucs_ft_2stem,2stems,2,accompaniment;vocals,07_4_output_audio_manifest.csv
+orchestra_author,demucs_htdemucs_ft_4stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+orchestra_author,demucs_mdx_extra_q_4stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+orchestra_author,openunmix_umxhq_4stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+orchestra_author,torchaudio_hdemucs_high_musdb_plus,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+xiaohetang_author,demucs_htdemucs_6stem,6stems,6,bass;drums;guitar;other;piano;vocals,07_4_output_audio_manifest.csv
+xiaohetang_author,demucs_htdemucs_ft_2stem,2stems,2,accompaniment;vocals,07_4_output_audio_manifest.csv
+xiaohetang_author,demucs_htdemucs_ft_4stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+xiaohetang_author,demucs_mdx_extra_q_4stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+xiaohetang_author,openunmix_umxhq_4stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+xiaohetang_author,torchaudio_hdemucs_high_musdb_plus,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv

@@ -1,0 +1,16 @@
+case_id,model,mode,reference_type,stem_count,reconstruction_error,absent_energy_ratio_sum,absent_energy_ratio_max,absent_stem_with_max,uncertain_energy_ratio_sum,known_present_energy_ratio_sum,dominant_stem,dominant_energy_ratio,review_priority
+orchestra_author,demucs_htdemucs_6stem,6stems,model_output_no_reference,6,0.07635565749046161,0.001453269049818669,0.001449123067342617,piano,0.9727503821305789,0.0,other,0.9727466336038525,medium
+orchestra_author,openunmix_umxhq_4stem,4stems,model_output_no_reference,4,0.0968623234599854,4.887782310871826e-05,4.887782310871826e-05,vocals,0.9319416845164681,0.0,other,0.9247273046834912,medium
+orchestra_author,torchaudio_hdemucs_high_musdb_plus,4stems,model_output_no_reference,4,0.0063461442028729395,2.6440480363381396e-06,2.6440480363381396e-06,vocals,0.9979193216172536,0.0,other,0.9979126192573122,medium
+orchestra_author,demucs_mdx_extra_q_4stem,4stems,model_output_no_reference,4,0.00576481160415582,1.7329481372261557e-06,1.7329481372261557e-06,vocals,0.999461885925623,0.0,other,0.9994586064446314,medium
+orchestra_author,demucs_htdemucs_ft_4stem,4stems,model_output_no_reference,4,0.007195419125136836,1.281259025065759e-06,1.281259025065759e-06,vocals,1.0005091866607079,0.0,other,1.0005059401979834,medium
+orchestra_author,demucs_htdemucs_ft_2stem,2stems,model_output_no_reference,2,0.006421468879343491,1.4857787466341403e-06,1.4857787466341403e-06,vocals,0.0,0.0,accompaniment,1.0005859928357164,low
+orchestra_author,owned_reference,owned_stems,owned_group_stems,5,0.0012974110444521148,4.936042747480783e-07,2.4699690918442585e-07,brass,0.0,0.9702965458996924,strings,0.4829771336451086,low
+xiaohetang_author,demucs_htdemucs_6stem,6stems,model_output_no_reference,6,0.11341147943036839,0.042049698935798484,0.042049698935798484,guitar,0.0,0.850755291095368,bass,0.6673692460592174,medium
+xiaohetang_author,demucs_htdemucs_ft_2stem,2stems,model_output_no_reference,2,0.18335713846844173,0.0,0.0,,0.0,0.9332371796707626,accompaniment,0.8690721481001826,medium
+xiaohetang_author,demucs_htdemucs_ft_4stem,4stems,model_output_no_reference,4,0.18170305685517796,0.0,0.0,,0.0,0.7571031271670519,bass,0.6446731223561194,medium
+xiaohetang_author,demucs_mdx_extra_q_4stem,4stems,model_output_no_reference,4,0.014732054172478666,0.0,0.0,,0.0,0.6903537281384713,bass,0.5997113568253581,low
+xiaohetang_author,openunmix_umxhq_4stem,4stems,model_output_no_reference,4,0.10901875744440241,0.0,0.0,,0.0,0.8430717355645121,bass,0.6601826800993497,low
+xiaohetang_author,owned_reference,owned_stems,owned_project_stems,5,7.1490625861401e-05,0.0,0.0,,0.0,1.0408616117706546,bass,0.6732741646430196,low
+xiaohetang_author,owned_reference,owned_2stem_derived,owned_2stem_derived,2,2.4879714197172194e-08,0.0,0.0,,0.0,1.0018843980707148,accompaniment,0.9253865573503784,low
+xiaohetang_author,torchaudio_hdemucs_high_musdb_plus,4stems,model_output_no_reference,4,0.03953752229214577,0.0,0.0,,0.0,0.6018272197872552,bass,0.5118519276355741,low

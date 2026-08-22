@@ -1,0 +1,11 @@
+numpy==2.4.6
+scipy==1.17.1
+librosa==0.11.0
+soundfile==0.13.1
+matplotlib==3.10.9
+scikit-learn==1.8.0
+pyyaml==6.0.3
+pillow==12.2.0
+pytest==9.1.1
+ipykernel==7.2.0
+nbconvert==7.17.1

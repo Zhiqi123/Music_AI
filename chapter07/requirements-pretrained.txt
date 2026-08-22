@@ -1,0 +1,14 @@
+# Chapter 7 core pretrained source-separation demos.
+# Install in the virtual environment created in earlier chapters.
+#
+# This file covers the executable pretrained-model demos in 07_4.
+# Spleeter is documented separately as a historical model because its
+# TensorFlow dependency stack is often incompatible with recent Python.
+torch
+torchaudio
+torchcodec
+demucs
+openunmix
+audio-separator
+onnxruntime
+mir_eval

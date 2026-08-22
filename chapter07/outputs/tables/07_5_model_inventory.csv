@@ -1,0 +1,13 @@
+case_id,track,model_id,model_display_name,mode,stem_count,stems,source
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,6,bass;drums;guitar;other;piano;vocals,07_4_output_audio_manifest.csv
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,2,accompaniment;vocals,07_4_output_audio_manifest.csv
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,6,bass;drums;guitar;other;piano;vocals,07_4_output_audio_manifest.csv
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,2,accompaniment;vocals,07_4_output_audio_manifest.csv
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,4,bass;drums;other;vocals,07_4_output_audio_manifest.csv

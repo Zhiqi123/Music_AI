@@ -1,0 +1,3 @@
+case_id,case_dir,category,reference_type,mixture_file,stem_dirs,derive_accompaniment,available_references,expected_present,expected_absent,expected_uncertain,start_sec,duration_sec,notes
+pop_01,CODE/datasets/audio_author/xiaohetang/pop_01,pop,owned_2stem,mixture.wav,stems,yes,"mixture;vocals;accompaniment;piano_optional","vocals;accompaniment;piano","","drums;bass;guitar",30,30,"中文通俗歌曲；若该曲确有钢琴轨，记录为 present，但钢琴音色可能受混响、合成音色和混音遮蔽影响"
+orch_01,CODE/datasets/audio_author/orchestra/orch_01,orchestra,owned_group_stems,mixture.wav,groups,no,"mixture;strings;woodwinds;brass;percussion_optional","strings;woodwinds;brass","vocals;drums","bass",20,30,"管弦乐 tutti；只有确认不存在的 stem 才写入 expected_absent"

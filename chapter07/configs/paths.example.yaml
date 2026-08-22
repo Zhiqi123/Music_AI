@@ -1,0 +1,4 @@
+# Copy to paths.yaml and edit for local data.
+musdb18hq_root: ../../datasets/MUSDB18-HQ
+audio_author_root: ../../datasets/audio_author
+

@@ -1,0 +1,9 @@
+# Optional legacy source-separation runner.
+#
+# Do not install this file into the main chapter environment by default.
+# Spleeter depends on an older TensorFlow stack and often fails on recent
+# Python versions. Use a separate compatible environment if this historical
+# baseline is needed.
+
+# Historical Spleeter baseline:
+# spleeter

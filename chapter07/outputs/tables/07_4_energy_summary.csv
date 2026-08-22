@@ -1,0 +1,97 @@
+case_id,case_display_name,family,model_id,model_display_name,mode,stem,energy_ratio,reconstruction_error,expected_absent,expected_uncertain,expected_present
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,bass,0.273014597177688,0.10418109463201473,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,drums,0.2924698311998493,0.10418109463201473,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,other,0.016185294567936263,0.10418109463201473,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,vocals,0.25567978956747067,0.10418109463201473,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,accompaniment,0.7250433115932261,0.10800349285685543,False,False,False
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,vocals,0.25593470824809145,0.10800349285685543,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,bass,0.27004877669888117,0.05919862834991503,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,drums,0.33538541870979227,0.05919862834991503,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,guitar,0.00010355254448217788,0.05919862834991503,False,False,False
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,other,0.004333426386946179,0.05919862834991503,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,piano,1.0947874517943647e-05,0.05919862834991503,False,False,False
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,vocals,0.25559568046626985,0.05919862834991503,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,bass,0.1648096977879328,0.019336033483000444,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,drums,0.3329948314068764,0.019336033483000444,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,other,0.07684870392537876,0.019336033483000444,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,vocals,0.2565055857208335,0.019336033483000444,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,bass,0.1521995748942337,0.02649669711832754,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,drums,0.34753645148302886,0.02649669711832754,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,other,0.09247636024842244,0.02649669711832754,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,vocals,0.2585958614524965,0.02649669711832754,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,bass,0.26707548418412896,0.020652107562433474,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,drums,0.27108657269167896,0.020652107562433474,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,other,0.01908345579105416,0.020652107562433474,False,False,True
+musdb_am_contra_heart_peripheral,AM Contra - Heart Peripheral,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,vocals,0.2242077207227439,0.020652107562433474,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,bass,0.22303986719134491,0.10023427671942599,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,drums,0.09244882382211442,0.10023427671942599,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,other,0.0980678686822492,0.10023427671942599,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,vocals,0.4172725217113074,0.10023427671942599,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,accompaniment,0.4492751557075535,0.11080291637569632,False,False,False
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,vocals,0.41272095419278565,0.11080291637569632,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,bass,0.2202038310103873,0.09387398304049062,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,drums,0.09385632555916174,0.09387398304049062,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,guitar,0.03187414775873755,0.09387398304049062,False,False,False
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,other,0.018734871022349067,0.09387398304049062,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,piano,9.537395444330286e-05,0.09387398304049062,False,False,False
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,vocals,0.42944621669919175,0.09387398304049062,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,bass,0.22408498419823514,0.034492732480869134,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,drums,0.09073886181948923,0.034492732480869134,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,other,0.041844535148504086,0.034492732480869134,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,vocals,0.4881238904310679,0.034492732480869134,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,bass,0.22605377234379181,0.03598575203611421,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,drums,0.09470690893282394,0.03598575203611421,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,other,0.052393615244385586,0.03598575203611421,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,vocals,0.48322076782322826,0.03598575203611421,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,bass,0.1506099126405335,0.0009348954049545364,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,drums,0.07433090217827905,0.0009348954049545364,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,other,0.15724391621751926,0.0009348954049545364,False,False,True
+musdb_al_james_schoolboy_facination,Al James - Schoolboy Facination,musdb18hq,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,vocals,0.39560198624972376,0.0009348954049545364,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,bass,0.6446731223561194,0.18170305685517796,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,drums,0.048449595858799474,0.18170305685517796,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,other,0.15473761694250274,0.18170305685517796,False,False,False
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,vocals,0.06398040895213296,0.18170305685517796,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,accompaniment,0.8690721481001826,0.18335713846844173,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,vocals,0.06416503157057996,0.18335713846844173,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,bass,0.6673692460592174,0.11341147943036839,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,drums,0.07675357116200208,0.11341147943036839,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,guitar,0.042049698935798484,0.11341147943036839,True,False,False
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,other,0.0034020185093590516,0.11341147943036839,False,False,False
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,piano,0.0402121997960341,0.11341147943036839,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,vocals,0.06642027407811431,0.11341147943036839,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,bass,0.5997113568253581,0.014732054172478666,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,drums,0.03830940128645955,0.014732054172478666,False,False,True
+xiaohetang_author,xiaohetang_author,pop,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,other,0.13675092770723882,0.014732054172478666,False,False,False
+xiaohetang_author,xiaohetang_author,pop,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,vocals,0.05233297002665363,0.014732054172478666,False,False,True
+xiaohetang_author,xiaohetang_author,pop,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,bass,0.5118519276355741,0.03953752229214577,False,False,True
+xiaohetang_author,xiaohetang_author,pop,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,drums,0.04689424065904147,0.03953752229214577,False,False,True
+xiaohetang_author,xiaohetang_author,pop,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,other,0.22827185308125253,0.03953752229214577,False,False,False
+xiaohetang_author,xiaohetang_author,pop,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,vocals,0.04308105149263966,0.03953752229214577,False,False,True
+xiaohetang_author,xiaohetang_author,pop,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,bass,0.6601826800993497,0.10901875744440241,False,False,True
+xiaohetang_author,xiaohetang_author,pop,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,drums,0.056917317162263635,0.10901875744440241,False,False,True
+xiaohetang_author,xiaohetang_author,pop,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,other,0.046153425339862705,0.10901875744440241,False,False,False
+xiaohetang_author,xiaohetang_author,pop,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,vocals,0.1259717383028987,0.10901875744440241,False,False,True
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,bass,1.0540086411229753e-06,0.007195419125136836,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,drums,2.192454083283277e-06,0.007195419125136836,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,other,1.0005059401979834,0.007195419125136836,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_ft_4stem,Demucs htdemucs_ft 4-stem,4stems,vocals,1.281259025065759e-06,0.007195419125136836,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,accompaniment,1.0005859928357164,0.006421468879343491,False,False,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_ft_2stem,Demucs htdemucs_ft 2-stem,2stems,vocals,1.4857787466341403e-06,0.006421468879343491,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,bass,2.061662002533514e-06,0.07635565749046161,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,drums,1.6868647238487274e-06,0.07635565749046161,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,guitar,1.6298072602592932e-06,0.07635565749046161,True,False,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,other,0.9727466336038525,0.07635565749046161,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,piano,0.001449123067342617,0.07635565749046161,True,False,False
+orchestra_author,orchestra_author,orchestra,demucs_htdemucs_6stem,Demucs htdemucs_6s 6-stem,6stems,vocals,2.516175215792855e-06,0.07635565749046161,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,bass,1.1746881343208185e-06,0.00576481160415582,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,drums,2.1047928573339215e-06,0.00576481160415582,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,other,0.9994586064446314,0.00576481160415582,False,True,False
+orchestra_author,orchestra_author,orchestra,demucs_mdx_extra_q_4stem,Demucs mdx_extra_q 4-stem,4stems,vocals,1.7329481372261557e-06,0.00576481160415582,False,True,False
+orchestra_author,orchestra_author,orchestra,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,bass,4.689326723397724e-06,0.0063461442028729395,False,True,False
+orchestra_author,orchestra_author,orchestra,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,drums,2.0130332179797475e-06,0.0063461442028729395,False,True,False
+orchestra_author,orchestra_author,orchestra,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,other,0.9979126192573122,0.0063461442028729395,False,True,False
+orchestra_author,orchestra_author,orchestra,torchaudio_hdemucs_high_musdb_plus,Torchaudio HDemucs High MUSDB+,4stems,vocals,2.6440480363381396e-06,0.0063461442028729395,False,True,False
+orchestra_author,orchestra_author,orchestra,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,bass,0.0018074044125446552,0.0968623234599854,False,True,False
+orchestra_author,orchestra_author,orchestra,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,drums,0.005406975420432215,0.0968623234599854,False,True,False
+orchestra_author,orchestra_author,orchestra,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,other,0.9247273046834912,0.0968623234599854,False,True,False
+orchestra_author,orchestra_author,orchestra,openunmix_umxhq_4stem,Open-Unmix umxhq 4-stem,4stems,vocals,4.887782310871826e-05,0.0968623234599854,False,True,False

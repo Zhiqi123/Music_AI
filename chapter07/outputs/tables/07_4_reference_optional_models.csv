@@ -1,0 +1,2 @@
+model_id,role,default_run,dependency,limitation
+spleeter_2stem,historical_u_net_baseline,False,spleeter,Older TensorFlow stack; often fails on recent Python or NumPy.
