@@ -1,0 +1,86 @@
+{
+  "uuid": "e69c0946-278b-4601-a5f4-91a8c3230e30",
+  "answers": {
+    "age": "35_44",
+    "gender": "male",
+    "music_training_levels": [
+      "music_enthusiast"
+    ],
+    "country_of_origin": "Hungary",
+    "familiar_music_cultures": [
+      "Hungary"
+    ],
+    "overall-1": 3,
+    "cultural-1": 4,
+    "recommend-1": 3,
+    "overall-2": 1,
+    "cultural-2": 1,
+    "recommend-2": 1,
+    "overall-3": 2.5,
+    "cultural-3": 2.5,
+    "recommend-3": 2,
+    "overall-4": 2.5,
+    "cultural-4": 2,
+    "recommend-4": 1,
+    "overall-5": 2,
+    "cultural-5": 1.5,
+    "recommend-5": 1,
+    "overall-6": 1,
+    "cultural-6": 1,
+    "recommend-6": 1,
+    "overall-7": 1.5,
+    "cultural-7": 1,
+    "recommend-7": 1,
+    "overall-8": 3.5,
+    "cultural-8": 3,
+    "recommend-8": 2,
+    "overall-9": 1.5,
+    "cultural-9": 1.5,
+    "recommend-9": 1,
+    "overall-10": 4,
+    "cultural-10": 4,
+    "recommend-10": 4
+  },
+  "clips": [
+    [
+      "7_4",
+      "8_33"
+    ],
+    [
+      "6_53",
+      "2_19"
+    ],
+    [
+      "3_33",
+      "3_45"
+    ],
+    [
+      "1_16",
+      "8_36"
+    ],
+    [
+      "9_41",
+      "8_43"
+    ],
+    [
+      "2_41",
+      "7_10"
+    ],
+    [
+      "7_15",
+      "9_39"
+    ],
+    [
+      "5_17",
+      "4_21"
+    ],
+    [
+      "9_8",
+      "8_5"
+    ],
+    [
+      "7_16",
+      "7_44"
+    ]
+  ]
+}

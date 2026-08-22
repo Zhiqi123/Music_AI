@@ -1,0 +1,101 @@
+{
+  "uuid": "f7409ecf-31e0-4ac6-b517-a8fbfd4f3956",
+  "answers": {
+    "age": "35_44",
+    "gender": "female",
+    "music_training_levels": [
+      "musicologist",
+      "professional_musician"
+    ],
+    "country_of_origin": "Lebanon",
+    "familiar_music_cultures": [
+      "Syria",
+      "Cyprus",
+      "Turkey",
+      "Greece",
+      "Italy",
+      "France",
+      "Russia",
+      "Iran",
+      "Tajikistan",
+      "Egypt",
+      "Tunisia",
+      "Germany",
+      "India",
+      "Pakistan",
+      "Spain"
+    ],
+    "overall-1": 1,
+    "cultural-1": 1,
+    "recommend-1": 2.5,
+    "overall-2": 1,
+    "cultural-2": 1,
+    "recommend-2": 4,
+    "overall-3": 1,
+    "cultural-3": 1,
+    "recommend-3": 1,
+    "overall-4": 1,
+    "cultural-4": 2.5,
+    "recommend-4": 1,
+    "overall-5": 1,
+    "cultural-5": 1,
+    "recommend-5": 2.5,
+    "overall-6": 2,
+    "cultural-6": 3,
+    "recommend-6": 4.5,
+    "cultural-7": 4,
+    "overall-7": 1,
+    "recommend-7": 3,
+    "overall-8": 1,
+    "cultural-8": 1,
+    "recommend-8": 1.5,
+    "overall-9": 3,
+    "cultural-9": 1,
+    "recommend-9": 3,
+    "overall-10": 1,
+    "cultural-10": 3,
+    "recommend-10": 4
+  },
+  "clips": [
+    [
+      "5_17",
+      "4_19"
+    ],
+    [
+      "4_20",
+      "2_14"
+    ],
+    [
+      "7_21",
+      "9_26"
+    ],
+    [
+      "2_9",
+      "1_32"
+    ],
+    [
+      "5_49",
+      "3_32"
+    ],
+    [
+      "9_34",
+      "9_47"
+    ],
+    [
+      "8_15",
+      "5_22"
+    ],
+    [
+      "7_50",
+      "5_13"
+    ],
+    [
+      "7_38",
+      "6_31"
+    ],
+    [
+      "6_24",
+      "7_32"
+    ]
+  ]
+}

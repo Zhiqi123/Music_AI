@@ -1,0 +1,86 @@
+{
+  "uuid": "a978d2f3-3a21-449b-84ff-13ba5ff13316",
+  "answers": {
+    "age": "35_44",
+    "gender": "female",
+    "music_training_levels": [
+      "no_training_experience"
+    ],
+    "country_of_origin": "Lithuania",
+    "familiar_music_cultures": [
+      "Lithuania"
+    ],
+    "overall-1": 4,
+    "cultural-1": 4,
+    "recommend-1": 5,
+    "overall-2": 1.5,
+    "cultural-2": 3,
+    "recommend-2": 1,
+    "overall-3": 1,
+    "cultural-3": 2,
+    "recommend-3": 1,
+    "overall-4": 1,
+    "cultural-4": 1.5,
+    "recommend-4": 1,
+    "overall-5": 1,
+    "cultural-5": 3,
+    "recommend-5": 5,
+    "overall-6": 3.5,
+    "cultural-6": 4,
+    "recommend-6": 4,
+    "overall-7": 1.5,
+    "cultural-7": 4,
+    "recommend-7": 1.5,
+    "overall-8": 1.5,
+    "cultural-8": 2.5,
+    "recommend-8": 1,
+    "overall-9": 1.5,
+    "cultural-9": 3.5,
+    "recommend-9": 1,
+    "overall-10": 1.5,
+    "cultural-10": 3.5,
+    "recommend-10": 1
+  },
+  "clips": [
+    [
+      "3_3",
+      "3_41"
+    ],
+    [
+      "5_16",
+      "5_50"
+    ],
+    [
+      "1_46",
+      "3_17"
+    ],
+    [
+      "2_50",
+      "7_48"
+    ],
+    [
+      "7_5",
+      "9_30"
+    ],
+    [
+      "5_34",
+      "1_2"
+    ],
+    [
+      "3_37",
+      "4_6"
+    ],
+    [
+      "1_43",
+      "2_34"
+    ],
+    [
+      "7_23",
+      "5_11"
+    ],
+    [
+      "3_2",
+      "6_53"
+    ]
+  ]
+}

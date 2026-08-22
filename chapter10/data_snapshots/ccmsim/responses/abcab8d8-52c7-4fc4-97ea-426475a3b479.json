@@ -1,0 +1,86 @@
+{
+  "uuid": "abcab8d8-52c7-4fc4-97ea-426475a3b479",
+  "answers": {
+    "age": "18_24",
+    "gender": "female",
+    "music_training_levels": [
+      "music_enthusiast"
+    ],
+    "country_of_origin": "China",
+    "familiar_music_cultures": [
+      "Japan"
+    ],
+    "overall-1": 1.5,
+    "cultural-1": 1,
+    "recommend-1": 1,
+    "overall-2": 3,
+    "cultural-2": 3,
+    "recommend-2": 3,
+    "overall-3": 1,
+    "cultural-3": 1,
+    "recommend-3": 1,
+    "overall-4": 2,
+    "cultural-4": 2,
+    "recommend-4": 2,
+    "overall-5": 1,
+    "cultural-5": 1,
+    "recommend-5": 1,
+    "overall-6": 1,
+    "cultural-6": 1,
+    "recommend-6": 1,
+    "overall-7": 4.5,
+    "cultural-7": 4.5,
+    "recommend-7": 4,
+    "overall-8": 1,
+    "cultural-8": 1,
+    "recommend-8": 1,
+    "overall-9": 4,
+    "cultural-9": 4,
+    "recommend-9": 4,
+    "overall-10": 1,
+    "recommend-10": 1,
+    "cultural-10": 1
+  },
+  "clips": [
+    [
+      "8_48",
+      "5_13"
+    ],
+    [
+      "7_29",
+      "8_37"
+    ],
+    [
+      "2_32",
+      "8_8"
+    ],
+    [
+      "4_25",
+      "8_2"
+    ],
+    [
+      "8_5",
+      "1_2"
+    ],
+    [
+      "5_41",
+      "2_35"
+    ],
+    [
+      "2_20",
+      "1_3"
+    ],
+    [
+      "2_48",
+      "1_38"
+    ],
+    [
+      "7_32",
+      "6_24"
+    ],
+    [
+      "2_18",
+      "9_37"
+    ]
+  ]
+}

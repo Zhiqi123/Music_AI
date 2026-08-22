@@ -1,0 +1,89 @@
+{
+  "uuid": "e50825d5-0e7b-46cf-b3ba-c5f9226e016e",
+  "answers": {
+    "age": "18_24",
+    "gender": "female",
+    "music_training_levels": [
+      "music_enthusiast"
+    ],
+    "country_of_origin": "Ukraine",
+    "familiar_music_cultures": [
+      "Ukraine",
+      "United_Kingdom",
+      "United_States_of_America",
+      "Italy"
+    ],
+    "overall-1": 1.5,
+    "cultural-1": 1,
+    "recommend-1": 1,
+    "overall-2": 4.5,
+    "cultural-2": 4,
+    "recommend-2": 4,
+    "overall-3": 5,
+    "cultural-3": 5,
+    "recommend-3": 5,
+    "overall-4": 1,
+    "cultural-4": 2,
+    "recommend-4": 1,
+    "cultural-5": 2.5,
+    "overall-5": 1.5,
+    "recommend-5": 1,
+    "overall-6": 3,
+    "cultural-6": 1,
+    "recommend-6": 2,
+    "overall-7": 1.5,
+    "cultural-7": 4.5,
+    "recommend-7": 2,
+    "overall-8": 1,
+    "cultural-8": 2,
+    "recommend-8": 2,
+    "overall-9": 1,
+    "cultural-9": 1,
+    "recommend-9": 1,
+    "overall-10": 2,
+    "cultural-10": 1,
+    "recommend-10": 1
+  },
+  "clips": [
+    [
+      "8_10",
+      "3_5"
+    ],
+    [
+      "8_21",
+      "7_3"
+    ],
+    [
+      "3_36",
+      "5_19"
+    ],
+    [
+      "9_31",
+      "5_24"
+    ],
+    [
+      "6_47",
+      "8_7"
+    ],
+    [
+      "1_2",
+      "6_53"
+    ],
+    [
+      "9_22",
+      "8_15"
+    ],
+    [
+      "2_9",
+      "9_46"
+    ],
+    [
+      "7_7",
+      "3_6"
+    ],
+    [
+      "4_14",
+      "4_17"
+    ]
+  ]
+}

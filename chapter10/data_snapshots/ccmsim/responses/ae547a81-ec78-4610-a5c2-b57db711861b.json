@@ -1,0 +1,93 @@
+{
+  "uuid": "ae547a81-ec78-4610-a5c2-b57db711861b",
+  "answers": {
+    "age": "35_44",
+    "gender": "other",
+    "music_training_levels": [
+      "musicologist"
+    ],
+    "country_of_origin": "Papua_New_Guinea",
+    "familiar_music_cultures": [
+      "Saint_Vincent_and_the_Grenadines",
+      "Romania",
+      "Palestine_State",
+      "Norway",
+      "Democratic_Republic_of_the_Congo",
+      "Canada",
+      "Azerbaijan",
+      "Brunei"
+    ],
+    "overall-1": 1,
+    "cultural-1": 1,
+    "recommend-1": 1,
+    "overall-2": 5,
+    "cultural-2": 5,
+    "recommend-2": 5,
+    "overall-3": 1,
+    "cultural-3": 1,
+    "recommend-3": 1,
+    "overall-4": 1,
+    "cultural-4": 1,
+    "recommend-4": 1,
+    "overall-5": 1,
+    "cultural-5": 1,
+    "recommend-5": 1,
+    "overall-6": 1,
+    "cultural-6": 1,
+    "recommend-6": 1,
+    "overall-7": 1,
+    "cultural-7": 1,
+    "recommend-7": 1,
+    "overall-8": 1,
+    "cultural-8": 1,
+    "recommend-8": 1,
+    "overall-9": 5,
+    "cultural-9": 5,
+    "recommend-9": 5,
+    "overall-10": 1,
+    "cultural-10": 1,
+    "recommend-10": 1
+  },
+  "clips": [
+    [
+      "3_51",
+      "1_1"
+    ],
+    [
+      "5_50",
+      "7_54"
+    ],
+    [
+      "7_4",
+      "7_45"
+    ],
+    [
+      "1_46",
+      "3_43"
+    ],
+    [
+      "5_22",
+      "9_22"
+    ],
+    [
+      "6_6",
+      "3_15"
+    ],
+    [
+      "6_15",
+      "7_42"
+    ],
+    [
+      "3_26",
+      "6_30"
+    ],
+    [
+      "2_40",
+      "4_33"
+    ],
+    [
+      "8_34",
+      "7_27"
+    ]
+  ]
+}
