@@ -6,7 +6,7 @@
 |---|---|
 | `chapter01/` | 第 1 章　绪论与 Python 入门 |
 | `chapter02/` | 第 2 章　符号表示 |
-| `chapter03/` | 第 3 章　从符号到声音：MIDI渲染与信息鸿沟 |
+| `chapter03/` | 第 3 章　MIDI渲染与信息鸿沟 |
 | `chapter04/` | 第 4 章　符号理解与生成 |
 | `chapter05/` | 第 5 章　音频表示 |
 | `chapter06/` | 第 6 章　音频分类 |
